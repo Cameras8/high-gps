@@ -1,0 +1,30 @@
+{
+  "name": "high-gps",
+  "version": "1.0.0",
+  "description": "超高精度GPS位置获取工具，目标精度控制在20米以内",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "serve src"
+  },
+  "keywords": [
+    "gps",
+    "geolocation",
+    "maps",
+    "coordinates",
+    "html5",
+    "gps-accuracy"
+  ],
+  "author": "CLZJ团队",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cljz/high-gps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cljz/high-gps/issues"
+  },
+  "homepage": "https://cljz.github.io/high-gps",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
