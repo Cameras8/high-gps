@@ -50,7 +50,7 @@
 
 3. 在Vscode中使用Live servers打开index.html即可使用
 
-4. 在浏览器中打开http://1.94.232.138:516 即可在线使用
+4. 在浏览器中打开https://7072-prod-6gpcn2mk7a79169c-1353412410.tcb.qcloud.la/src/index.html?sign=b818b1af69916db1d3cc1cc34f207a59&t=1746447969 即可在线使用
 ### 如何使用
 
 1. 点击"获取精确位置"按钮获取当前位置坐标
