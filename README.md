@@ -48,8 +48,9 @@
    python -m http.server
    ```
 
-3. 在浏览器中访问http://localhost:8000/src/
+3. 在Vscode中使用Live servers打开index.html即可使用
 
+4. 在浏览器中打开http://1.94.232.138:516/网页即可在线使用
 ### 如何使用
 
 1. 点击"获取精确位置"按钮获取当前位置坐标
