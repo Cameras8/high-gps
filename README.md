@@ -1,6 +1,6 @@
 # 超高精度GPS位置获取
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![f365689c41ebd728281973211c10dc0](https://github.com/user-attachments/assets/cd0f7d60-c86e-4aa1-a4c0-962906a0012c)
 
 这是一个简单的网页应用，可以获取设备当前的地理位置坐标，目标精度控制在20米以内。
 
