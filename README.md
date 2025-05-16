@@ -50,7 +50,7 @@
 
 3. 在Vscode中使用Live servers打开index.html即可使用
 
-4. 在微信中扫描二维码![1_1041410955_171_85_3_1005479702_fc7652fcac1252e44ab605f12fac9e5e](https://github.com/user-attachments/assets/e9271a25-5c74-4a38-9d99-4474ae6f90ad)
+4. 在微信中扫描二维码![1_1044316784_171_85_3_1009301122_cf62588ffb0396adc2c5a9047bda032a](https://github.com/user-attachments/assets/46404202-f760-4be2-b7bd-f6cb076fdb0b)
  即可在线使用
 ### 如何使用
 
